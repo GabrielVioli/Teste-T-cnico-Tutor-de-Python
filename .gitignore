@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDEs e editores
+*.idea/
+*.vscode/
+*.vscode/*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Outros
+*.swp
